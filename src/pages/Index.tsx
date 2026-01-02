@@ -126,7 +126,7 @@ const Index = () => {
                 <Icon name="Sparkles" className="text-white" size={20} />
               </div>
               <div>
-                <h1 className="text-xl font-bold text-white">Студия эстетики</h1>
+                <h1 className="text-xl font-bold text-white">Portret</h1>
                 <p className="text-xs text-white/80">Владивосток, ул. Уборевича 19</p>
               </div>
             </div>
@@ -150,7 +150,7 @@ const Index = () => {
               ✨
             </div>
             <div className="flex-1">
-              <h2 className="text-2xl font-bold mb-1">Студия эстетики лица</h2>
+              <h2 className="text-2xl font-bold mb-1">Студия эстетики лица Portret</h2>
               <div className="flex items-center gap-2 mb-2">
                 <div className="flex items-center gap-1">
                   <Icon name="Star" className="text-orange-400 fill-orange-400" size={16} />
